@@ -11,7 +11,7 @@ Here are some ideas to get you started:
     <td>
  🔭 Currently pusuing my Bachelor's degree<br>
  🌱 At Vellore Institute of Technology<br>
- 📫 Reach me at <a href="mailto:warriertanya@gmail.com">warriertanya@gmail.com<br>
+ 📫 Reach me at <a href="mailto:warriertanya@gmail.com">warriertanya@gmail.com</a><br>
  🌎 Checkout <a href="https://tanyarw.github.io/">tanyarw.github.io</a><br>
  😄 She/Her <br>
     </td>
