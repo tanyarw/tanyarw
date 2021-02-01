@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi! I am Tanya 👋
 
 <!--
 **tanyarw/tanyarw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+- 🔭 Currently pusuing my Bachelor's degree<br>
+- 🌱 At Vellore Institute of Technology<br>
+- 📫 Reach me at warriertanya@gmail.com<br>
+- 🌎 Checkout <a href="tanyarw.github.io">tanyarw.github.io</a><br>
+- 😄 She/Her 
+<br>
+
+<img width="300" height="300" src="./about.svg">
+
+
