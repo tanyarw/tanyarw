@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 Currently pusuing my Bachelor's degree<br>
 - 🌱 At Vellore Institute of Technology<br>
 - 📫 Reach me at warriertanya@gmail.com<br>
-- 🌎 Checkout <a href="tanyarw.github.io">tanyarw.github.io</a><br>
+- 🌎 Checkout <a href="https://tanyarw.github.io/">tanyarw.github.io</a><br>
 - 😄 She/Her 
 <br>
 
