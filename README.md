@@ -9,7 +9,7 @@ Here are some ideas to get you started:
   <tr>
     <td><img src="./about.svg"></td>
     <td>
- 🔭 Currently pusuing my Bachelor's degree<br>
+ 🔭 Currently pursuing my Bachelor's degree<br>
  🌱 At Vellore Institute of Technology<br>
  📫 Reach me at <a href="mailto:warriertanya@gmail.com">warriertanya@gmail.com</a><br>
  🌎 Checkout <a href="https://tanyarw.github.io/">tanyarw.github.io</a><br>
