@@ -9,10 +9,8 @@ Here are some ideas to get you started:
   <tr>
     <td><img src="./about.svg"></td>
     <td>
- 🔭 Computer Science Graduate<br>
- 🌱 Bangalore, India<br>
- 📫 Reach me at <a href="mailto:warriertanya@gmail.com">warriertanya@gmail.com</a><br>
- 🌎 Checkout <a href="https://tanyarw.github.io/">tanyarw.github.io</a><br>
+  ☁️ Strategic Cloud Engineer<br>
+ 📍 Google, India<br>
  😄 She/Her <br>
     </td>
   </tr>
