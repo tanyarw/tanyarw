@@ -10,8 +10,8 @@ Here are some ideas to get you started:
     <td><img src="./about.svg"></td>
     <td>
   ☁️ Strategic Cloud Engineer<br>
- 📍 Google, India<br>
- 😄 She/Her <br>
+  🏢 Google<br>
+ 📍 India<br>
     </td>
   </tr>
 </table>
